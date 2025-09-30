@@ -64,10 +64,7 @@ A complete **web-based Hotel Management System** built using **PHP** and **MySQL
 
 ---
 
-## 📄 Project Report
 
-📘 You can download the full project report here:  
-👉 [Hotel_Management_Project_Report.pdf](./Hotel_Management_Project_Report.pdf)
 
 ---
 
